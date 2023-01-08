@@ -11,3 +11,7 @@ https://checkmarx.com/blog/attacker-uses-a-popular-tiktok-challenge-to-lure-user
 https://blog.phylum.io/w4sp-stealer-update-theyre-still-at-it
 
 https://blog.phylum.io/phylum-discovers-new-stealer-variants-in-burgeoning-pypi-supply-chain-attack - same methodology as wasp, likely the same group
+
+https://medium.com/checkmarx-security/wasp-attack-on-python-polymorphic-malware-shipping-wasp-stealer-infecting-hundreds-of-victims-10e92439d192
+
+https://blog.phylum.io/w4sp-stealer-update-attacker-now-attempting-to-masquerade-as-popular-orgs
